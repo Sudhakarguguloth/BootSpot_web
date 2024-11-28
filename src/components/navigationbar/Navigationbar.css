@@ -1,0 +1,12 @@
+.n1{
+    background-color: rgb(15, 181, 237)
+}
+.logo{
+    border-radius: 50%;
+}
+.logout:hover{
+    color: gold;
+}
+.navborder{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,14 @@
+.profile{
+    max-width: 250px;
+    width:100%;
+    height:300px
+}
+.like{
+    font-size: 20px;
+    border-radius: 44px;
+    background-color: lightgray;
+    transition: none;
+}
+.like:hover{
+    background-color: rgb(173, 171, 171);
+}
